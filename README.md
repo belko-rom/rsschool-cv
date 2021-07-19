@@ -1,3 +1,3 @@
 # rsschool-cv
 
-# link
+https://belko-rom.github.io/rsschool-cv/cv
