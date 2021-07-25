@@ -107,3 +107,8 @@ li .fa, li .fab {
     margin-right: 0.3em;
 }
 
+mark {
+    background: #73ca97;
+    padding: 0 3px;
+    border: 1px dashed #333;
+   }
